@@ -137,9 +137,8 @@ Los datos utilizados provienen de fuentes oficiales y macroeconómicas:
 
 - **INE (Instituto Nacional de Estadística)**  
   - IPC (Índice de Precios al Consumo)  
-  - Índice de Precios del Alquiler
-  - Índice de Precio de la Vivienda (IPV) 
-  - Salario medio
+  - IPVA (Índice de Precios de Alquiler)
+  - IPV (Índice de Precio de la Vivienda) 
 
 - **Ministerio de Transportes, Movilidad Sostenible**  
   - Viviendas iniciadas
